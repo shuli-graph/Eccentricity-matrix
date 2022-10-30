@@ -10,9 +10,11 @@ Sagemath 9.6, python 3.11
 
 ###list
 
-sage_eccmatrix:  A call function is defined for eccentricity matrix.
-python_eccmatrix: The python version about function of eccentricity matrix.
-sage_maxdegree:  The programme is to choose some trees with given maximum degree and summarize the rules about the radius of eccentricity matrix.
+1.sage_eccmatrix:  A call function is defined for eccentricity matrix.
+
+2.python_eccmatrix: The python version about function of eccentricity matrix.
+
+3.sage_maxdegree:  The programme is to choose some trees with given maximum degree and summarize the rules about the radius of eccentricity matrix.
 
 ###run
 
